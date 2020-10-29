@@ -1,0 +1,2 @@
+export { getAllVms } from './api'
+
